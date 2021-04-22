@@ -32,6 +32,6 @@ spec:
                   namespace: node-autolabeler
                 data:
                   rules1.properties: |
-                    name: cnf.*
+                    name: sno.*
                     labels:
                     - node-role.kubernetes.io/worker-du
